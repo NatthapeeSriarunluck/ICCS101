@@ -1,0 +1,21 @@
+# Assignment 1, Task 3
+# Name: Natthapee Sriarunluck
+# Collaborators: -
+# Time Spent: 00:30 hrs
+1. 6.66 Float
+2. 10.0 Float
+3. 3 Int
+4. 3.0 Float
+5. 90.0 Float
+6. 90.0 Float
+7. 23 Int
+8. 20 Int
+9. 20.75 Float
+10. 20.75 Float
+
+Part 2
+1. 20 Int
+2. 6 Int
+3. 30 Int
+4. 30.75 Float
+5. 498.0 Float

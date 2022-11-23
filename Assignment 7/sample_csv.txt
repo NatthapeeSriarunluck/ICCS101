@@ -1,0 +1,3 @@
+bid_id,bidder_id,auction,merchandise,device,time,country,ip,url
+1,668d39,aeqok,furniture,phone1,9759243157894736,in,50.201.125.84,jmqlhflrzwuay9c
+0,8dac2b,ewmzr,jewelry,phone0,9759243157894736,us,69.166.231.58,vasstdc27m7nks3

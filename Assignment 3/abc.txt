@@ -1,0 +1,10 @@
+# Assignment 03, Task 04
+# Name: Natthapee Sriarunluck
+# Collaborators: -
+# Time Spent: 00:15 hrs
+
+1. b(), d(), b(), a(), c()
+2. a(), c(), b(), b(), a()
+3. d(), a(), b(), c()
+4. impossible
+5. e(), a()

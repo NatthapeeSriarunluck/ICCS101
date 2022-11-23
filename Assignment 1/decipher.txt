@@ -1,0 +1,20 @@
+# Assignment 1, Task 4
+# Name: Natthapee Sriarunluck
+# Collaborators: -
+# Time Spent: 00:10 hrs
+
+Program 1
+1.
+x = true
+y = true
+
+2.
+x = false
+y - true
+
+3.
+x = false
+y = false
+
+Program 2
+x = 50
